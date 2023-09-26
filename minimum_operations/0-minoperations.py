@@ -16,3 +16,4 @@ def minOperations(n):
             n = n / b
         b += 1
     return a
+#this code is solely owned by JOSHUA MALONG PLEASE DO NOT COPY.
